@@ -21,7 +21,7 @@ This platform enables:
 
 ## Project Video
 
-[![Watch the video](https://img.youtube.com/vi/TzoEru0kOVw/maxresdefault.jpg)](https://www.youtube.com/TzoEru0kOVw)
+[![Watch the video](https://img.youtube.com/vi/TzoEru0kOVw/maxresdefault.jpg)](https://youtu.be/TzoEru0kOVw)
 
 ## 📋 Project Structure
 
