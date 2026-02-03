@@ -13,6 +13,16 @@ This platform enables:
 - **Share Profiles** - Generate shareable links for candidate evaluation results
 - **Analytics** - Skill distribution heatmaps and evaluation metrics
 
+## Project Screenshots
+
+![Screenshot](https://github.com/adeel-015/gcp/blob/master/screenshots/gcp_1.png)
+![Screenshot](https://github.com/adeel-015/gcp/blob/master/screenshots/gcp_2.png)
+![Screenshot](https://github.com/adeel-015/gcp/blob/master/screenshots/gcp_3.png)
+
+## Project Video
+
+[![Watch the video](https://img.youtube.com/vi/TzoEru0kOVw/maxresdefault.jpg)](https://www.youtube.com)
+
 ## 📋 Project Structure
 
 ```
